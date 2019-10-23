@@ -15,11 +15,10 @@ WIP
 
 #### Usage
 ```
-will be added
+WIP
 ```
 
 
-
 #### To-do(s)
-* Add JS library
-* Complete installation documentation
+* Add JS library with JSDoc 
+* Complete installation/usage section of documentation
